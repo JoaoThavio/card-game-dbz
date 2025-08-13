@@ -12,6 +12,9 @@ O objetivo do projeto é criar um sistema de batalhas entre cartas de personagen
 ## Imagens do projeto
 ![Texto alternativo](static/assets/captura-jogo-dbz2.png)
 
+---
+![Texto alternativo](static/assets/captura-jogo-dbz2.png)
+
 
 ## Como acessar
 A aplicação está hospedada no Render e pode ser acessada pelo link:  
