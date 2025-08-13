@@ -9,6 +9,9 @@ O objetivo do projeto é criar um sistema de batalhas entre cartas de personagen
 - **JavaScript** para a lógica de batalha e interação do jogo  
 - **Flask (Python)** para servir a aplicação na web  
 
+## Imagens do projeto
+
+
 ## Como acessar
 A aplicação está hospedada no Render e pode ser acessada pelo link:  
 👉 **[Jogar agora](https://card-game-dbz-joao.onrender.com)**
