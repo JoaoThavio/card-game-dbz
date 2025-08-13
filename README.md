@@ -18,3 +18,5 @@ A aplicação está hospedada no Render e pode ser acessada pelo link:
 - Interface visual inspirada em jogos de cartas colecionáveis  
 - Animações e efeitos para melhorar a experiência  
 - Cartas únicas com atributos personalizados  
+
+## OBSERVAÇÃO 07/08/25 - Jogo funciona corretamente localmente e com ngrok, porém, ainda tem problemas no funcionamento no render. Em correção.
