@@ -10,6 +10,7 @@ O objetivo do projeto é criar um sistema de batalhas entre cartas de personagen
 - **Flask (Python)** para servir a aplicação na web  
 
 ## Imagens do projeto
+![Texto alternativo](static/assets/captura-jogo-dbz2.png)
 
 
 ## Como acessar
